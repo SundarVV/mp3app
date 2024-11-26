@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="Icon">
+    <file>Close Pink.webp</file>
+    <file>Cut.png</file>
+    <file>Cutter.qrc</file>
+    <file>Exit.png</file>
+    <file>Hills.jpg</file>
+    <file>Mute.webp</file>
+    <file>Pause.webp</file>
+    <file>Play Pink.png</file>
+    <file>Play Selected.webp</file>
+    <file>Play.webp</file>
+    <file>Search Blue 3D.webp</file>
+    <file>Stop.webp</file>
+    <file>Unmute.webp</file>
+  </qresource>
+</RCC>
